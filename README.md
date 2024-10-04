@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hwiy
 - 👀 I’m interested in fun web spaces
 - 🌱 I’m currently learning html, css, p5.js, hydra
-- 💻 www.hwiy.art
-- 📫 How to reach me ... hwiy@protonmail.com
+- 🌐 www.hwiy.art
+- 💌 Mail me: hwiy@protonmail.com
   
 <!---
 Hwiy/Hwiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
